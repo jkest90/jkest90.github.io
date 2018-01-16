@@ -5,13 +5,14 @@ body {
 header {
     background: url(../images/header-background.jpg) bottom / cover;
     height: 60vh;
-    justify-content: center;
+    /* justify-content: center; */
     text-align: center;
 }
 
 header h1 {
     color: rgb(217, 212, 241);
     font-weight: bold;
+    padding-top: 40px;
 }
 
 .slogan {
